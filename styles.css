@@ -30,7 +30,7 @@
     --bird-top: -1000;
     --bird-size: 60px;
     position: absolute;
-    background-color: hsl(50, 75%, 50%);
+    background-color: hsl(21, 93%, 48%);
     width: var(--bird-size);
     height: var(--bird-size);
     left: var(--bird-size);
@@ -49,7 +49,7 @@
   .pipe > .segment {
     position: absolute;
     width: 100%;
-    background-color: hsl(100, 75%, 50%);
+    background-color: teal;
   }
   
   .pipe > .top {
